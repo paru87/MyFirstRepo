@@ -1,2 +1,1 @@
-This is a sample file
-Used unauthed mode
+This is the file for Star project - Tech
